@@ -141,6 +141,10 @@ LLM_AREP/
 └── README.md             # This file
 ```
 
+## Project Architecture
+
+![image](https://github.com/user-attachments/assets/657b1398-4b43-40f8-8d4d-7bb36ad0c552)
+
 ## Technical Details
 
 - The translation chain is composed of:
